@@ -42,13 +42,13 @@
 <h2>🌐Socials :</h2>
 
 <p>
-<a href="https://www.instagram.com/guii_tristao/"> 
+<a href="https://www.instagram.com/guii_tristao/" target="_blank"> 
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://https://www.instagram.com/guii_tristao/" alt="Instagram Badge">
 </a>
-<a href="https://www.linkedin.com/in/guilherme-trist%C3%A3o-414066296/"> 
+<a href="https://www.linkedin.com/in/guilherme-trist%C3%A3o-414066296/" target="_blank"> 
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/kaua-vitorio-42024b1a3" alt="Linkedin Badge">
 </a>
-<a href="https://twitter.com/GuiiTristao"> 
+<a href="https://twitter.com/GuiiTristao" target="_blank"> 
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/GuiiTristao" alt="Twitter Badge">
 </a>
 </p>
