@@ -57,6 +57,14 @@
 </a>
 </div>
 
+<br>
+
+<div align="right">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=devTristao&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
+</div>
+
  <p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
  </p>
