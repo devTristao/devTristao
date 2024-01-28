@@ -53,7 +53,7 @@
 <br>
 
 <h2>
-🔗 Suport :
+🔗 Support :
 </h2>
 <div>
     <a href="https://www.buymeacoffee.com/devTristao"> 
