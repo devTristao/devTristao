@@ -11,9 +11,7 @@
 <br>
 
 <div align="right">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=devTristao&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+
 </div>
 
 <h2>
