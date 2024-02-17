@@ -23,8 +23,8 @@
 💻 Languages | Tools :
 </h2>
 <p> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github"/> <br>
-    <img src="https://skillicons.dev/icons?i=react,mongodb,express,vscode,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,mongodb,ai"/> <br>
+    <img src="https://skillicons.dev/icons?i=react,github,express,vscode,visualstudio,mysql,linux"/>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </p>
 
